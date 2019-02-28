@@ -1,0 +1,8 @@
+{
+  "name": "project-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iberdinsky-skilld/project-components.git",
+  "author": "iberdinsky-skilld <iberdinsky@skilld.fr>",
+  "license": "MIT"
+}
