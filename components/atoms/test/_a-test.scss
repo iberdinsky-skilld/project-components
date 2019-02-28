@@ -1,0 +1,17 @@
+@import '../../../init';
+
+// test
+//
+// Markup:
+// <div class='a-test {{modifier_class}}'>test</div>
+//
+// .a-test--modifier - Modifier description.
+//
+// Style guide: components.atoms.test
+
+$name: 'a-test';
+
+.#{$name},
+%#{$name} {
+  font-size: 100px;
+}
